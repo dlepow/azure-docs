@@ -1,5 +1,5 @@
 ---
-title: Security for container instances
+title: Security considerations for container instances
 description: Recommendations to secure images and secrets for Azure Container Instances, and general security considerations for any container platform
 ms.topic: article
 ms.date: 01/10/2020
@@ -135,6 +135,8 @@ Maintain an accurate audit trail of administrative access to your container ecos
 * Resource logs for [Azure Container Instances](container-instances-log-analytics.md) and [Azure Container Registry](../container-registry/container-registry-diagnostics-audit-logs.md)
 
 ## Next steps
+
+* See the [Azure security baseline for Container Instances](security-baseline.md) for comprehensive recommendations that will help you improve the security posture of your deployment.
 
 * Learn more about using [Azure Security Center](../security-center/container-security.md) for real-time threat detection in your containerized environments.
 
